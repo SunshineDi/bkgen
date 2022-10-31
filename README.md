@@ -1,1 +1,1 @@
-# bkgen
+# backgroundgenerator
